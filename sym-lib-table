@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "D2FP")(type "Legacy")(uri "${KIPRJMOD}/D2FP/D2FP-FN2.lib")(options "")(descr ""))
+  (lib (name "extras")(type "KiCad")(uri "${KIPRJMOD}/extras/extras.sym.kicad_sym")(options "")(descr ""))
+)
